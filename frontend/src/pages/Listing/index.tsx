@@ -1,6 +1,9 @@
+import Pagination from "../../components/pagination";
+
+
 function Listing(){
     return(
-        <h1>Corinthians</h1>
+      <Pagination />
     );
 }
 
